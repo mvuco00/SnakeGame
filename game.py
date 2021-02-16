@@ -83,9 +83,9 @@ def game_intro():
                     quit()
 
         gameDisplay.fill(BLACK)
-        display_msg("Wellcome to Snakey", GREEN, -100, size="medium")
+        display_msg("Welcome to Snakey", GREEN, -100, size="medium")
         display_msg("Eat as many apples as you can", WHITE, -30, size="small")
-        display_msg("Press C to continue or Q to quit or P to pause", RED, 180)
+        display_msg("Press C to continue, Q to quit or P to pause", RED, 180)
 
         pygame.display.update()
         clock.tick(15)
