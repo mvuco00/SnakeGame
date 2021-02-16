@@ -14,9 +14,9 @@ GREEN=(0,240,0)
 gameDisplay=pygame.display.set_mode((displayWidth, displayHeight))
 pygame.display.set_caption("Snakey")
 
-img = pygame.image.load('snake.jpg')
-appleimg = pygame.image.load('apple.png')
-icon = pygame.image.load('icon.png')
+img = pygame.image.load('img/snake.jpg')
+appleimg = pygame.image.load('img/apple.png')
+icon = pygame.image.load('img/icon.png')
 direction = "right"
 
 clock = pygame.time.Clock()
