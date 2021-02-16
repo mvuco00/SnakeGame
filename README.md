@@ -15,5 +15,5 @@ Igrica *Zmijica* u kojoj je cilj skupiti što više jabuka bez napuštanja ekran
 - Igrica
 - Praćenje rezultata
 - Pauziranje igrice
-- Poruka kraja igre i mogućnost ponovnog pokretanja
+- Poruka kraja igre i mogućnost ponovnog pokretanja ili izlaska iz igre
 
