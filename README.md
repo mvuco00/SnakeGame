@@ -2,9 +2,9 @@
 Igrica *Zmijica* u kojoj je cilj skupiti što više jabuka bez napuštanja ekrana
 
 <p float="left">
-<img src="images/snakeIntro.png" width="220">
-<img src="images/snakeGame.png" width="220">
-<img src="images/snakeGameOver.png" width="220">
+<img src="images/snakeIntro.png" width="230">
+<img src="images/snakeGame.png" width="230">
+<img src="images/snakeGameOver.png" width="230">
 </p>
 
 ## Alat
